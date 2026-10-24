@@ -1,2 +1,0 @@
-# Dida-Golf
-play golf
